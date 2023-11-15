@@ -1,3 +1,4 @@
+---
 #------------------------------------------------------------
 # Values for this workshop.
 #------------------------------------------------------------
@@ -53,7 +54,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: " Software Carpentry (Shell, Git, Programming with R)"
+title: "Software Carpentry (Shell, Git, Programming with R)"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
